@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JAVA, Springboot, SQL**
 
-- 💬 Ask me about **CSS3, HTML5, JS,**
+- 💬 Ask me about **CSS3, HTML5, JS, DSA**
 
 - 📫 How to reach me **jadaunsahab8080@gmail.com**
 
