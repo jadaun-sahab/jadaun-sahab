@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadaun-sahab" alt="jadaun-sahab" /></a> </p>
 
-- 🔭 I’m currently working on **Amigos**
+
 
 - 🌱 I’m currently learning **JAVA, Springboot, SQL**
 
