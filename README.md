@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **CSS3, HTML5, JS, DSA**
 
-- 📫 How to reach me **jadaunsahab8080@gmail.com**
+- 📫 How to reach me **<a href="https://astounding-mousse-0f1f97.netlify.app" target="blank">Portfolio</a> **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
