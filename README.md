@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **CSS3, HTML5, JS, DSA**
 
-- 📫 How to reach me **<a href="https://vikas-jadaun-portfolio.netlify.app/" target="blank">Portfolio.github.io</a> **
+- 📫 How to reach me **<a href="https://jadaun-sahab.github.io/" target="blank">Portfolio.github.io</a> **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
