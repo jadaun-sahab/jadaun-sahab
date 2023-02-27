@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas jadaun</h1>
 <h3 align="center">A passionate Web Developer & Designer</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Wu76LuKz9oA9yvkPSWlwS&ust=1677568728925000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCNjNKUtf0CFQAAAAAdAAAAABAE" alt="gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadaun-sahab&label=Profile%20views&color=0e75b6&style=flat" alt="jadaun-sahab" /> </p>
 
