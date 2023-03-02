@@ -58,9 +58,9 @@
 <!-- demo   -->
 
 <!-- demo -->
- 
+ <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
 
- <br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadaun-sahab&show_icons=true&locale=en&layout=compact" alt="jadaun-sahab" /></p>
 
