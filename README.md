@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JAVA, Springboot, SQL**
 
-- 💬 Ask me about **CSS3, HTML5, JS, DSA**
+- 💬 Ask me about **CSS3, HTML5, JS, DSA, JAVA, MYSQL, SPRINGBOOT **
 
 - 📫 How to reach me **<a href="https://jadaun-sahab.github.io/" target="blank">Portfolio.github.io</a> **
 
