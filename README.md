@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **JAVA, Springboot, SQL**
+- 🌱 I’m currently learning **JAVA, Springboot, SQL, React**
 
 - 💬 Ask me about **CSS3, HTML5, JS, DSA, JAVA, MYSQL, SPRINGBOOT **
 
