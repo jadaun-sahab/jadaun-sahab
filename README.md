@@ -63,10 +63,6 @@
 
 
 
-
-<p>&nbsp;<img align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/jadaun-sahab?cardType=level-alternate&theme=github-dark&preferLogin=false&Border=2A0DDD&Text=FFFFFF&Title=0685DD&Ring=00FFE8&Background=000420" alt="jadaun-sahab" /></p>
-
-
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=jadaun-sahab&show_icons=true&locale=en" alt="jadaun-sahab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadaun-sahab&" alt="jadaun-sahab" /></p>
